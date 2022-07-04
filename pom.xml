@@ -4,7 +4,6 @@
   <artifactId>ecommerce</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-//Testing is the live
 <dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
